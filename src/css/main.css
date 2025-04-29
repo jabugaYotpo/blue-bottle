@@ -17,7 +17,7 @@
 }
 
 body {
-  background-color: var(--generic-template-background) !important;
+  background-color: #f3eeea !important;
 }
 
 .template-header {
@@ -29,7 +29,7 @@ body {
   display: flex;
   max-width: 1316px;
   margin: 0 auto;
-  background: #000;
+  background: #f3eeea;
 }
 
 .logo {
